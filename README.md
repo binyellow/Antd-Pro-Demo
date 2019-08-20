@@ -1,3 +1,13 @@
+### package.json 注释部分
+
+```js
+"husky": {
+  "hooks": {
+    "pre-commit": "npm run lint-staged"
+  }
+},
+```
+
 # Ant Design Pro
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
